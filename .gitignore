@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Data files
+data/raw/
+data/job/
+data/summary/
+data/ranking/
+data/output/
+
+# OS
+.DS_Store
+Thumbs.db

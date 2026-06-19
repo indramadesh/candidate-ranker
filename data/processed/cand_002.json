@@ -1,0 +1,19 @@
+{
+  "candidate_id": "cand_002",
+  "raw_text": "Indra MadeshMiryala\nAI Developer (Python) | Computer Vision Systems\nmiryalaindramadesh@gmail.com | +91-7989233927\ngithub.com/indramadesh | linkedin.com/in/indra-madesh-miryala-190257259/\nPROFILE\nAI developer specializing in computer vision and real-timesystems. Experiencedin building face recognition pipelines with\nauthentication, image processing, and automatedreporting using PythonandOpenCV.\nPROJECTS\nAI-BASEDFACERECOGNITIONATTENDANCESYSTEM |Python,OpenCV,NumPy\n\u2022 Developedreal-timefacerecognitionpipelineforattendancetracking\n\u2022 Implementedfaceencodingandmatchinglogicforidentityverification\n\u2022 Achieved92%detectionaccuracyacrosscontrolledtestsamples\n\u2022 Reducedmanualattendanceeffortbyapproximately85%\n\u2022 Designedunknown-userdetectionwithtimestamp-basedloggingsystem\nSMARTTIMETABLEMANAGEMENTSYSTEM |Python\n\u2022 Designedschedulingsystemwithrule-basedconflictdetection\n\u2022 Structuredtimetabledataforefficientupdatesandretrieval\n\u2022 Implementedvalidationlogictominimizeschedulingconflicts\nDATAANALYSISPROJECT",
+  "companies": [
+    "Computer Vision Systems",
+    "PROFILE",
+    "PythonandOpenCV",
+    "\u2022 Implementedfaceencodingandmatchinglogicforidentityverification\n\u2022 Achieved92%detectionaccuracyacrosscontrolledtestsamples\n\u2022",
+    "\u2022 Structuredtimetabledataforefficientupdatesandretrieval\n\u2022 Implementedvalidationlogictominimizeschedulingconflicts",
+    "Google Sheets",
+    "ImageProcessing"
+  ],
+  "dates": [
+    "2027"
+  ],
+  "skills": [
+    "Artificial Intelligence"
+  ]
+}
